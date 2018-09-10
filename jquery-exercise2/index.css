@@ -1,0 +1,25 @@
+div {
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    margin: 6px 0;
+}
+
+p {
+  padding-top: 15px;
+}
+
+section{
+  float: right;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+}
+
+.abc{
+  display: flex;
+  justify-content: center;
+  padding-top: 150px;
+}
